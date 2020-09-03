@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final Project</title>
+</head>
+<body>
+	<h1>Elyse Mitchell</h1>
+	<a href="http://www.one.com">One</a>
+	<a href="http://www.two.com">Two</a>
+	<a href="www://www.three.com">Three</a>
+	<a href="https://heavytemple.bandcamp.com/">Heavy Temple Website</a>
+
+	<h2>Favorite Foods</h2>
+		<ul>
+			<li>Pizza</li>
+			<li>Indian</li>
+			<li>Cheese</li>
+			<li>Cheesecake</li>
+		</ul>
+	<h2>Achievements</h2>
+	<label>Progress in this course &#40;100%&#41;</label>
+	<meter value="100">100%</meter> 100%
+	<br>
+	<label>Progress in the Specialization capstone &#40;20%&#41;</label>
+	<meter value="20" max="100">20%</meter> 20%
+	<br>
+	<label>Progress in life goals &#40;60%&#41;</label>
+	<meter value="20" max="100">60%</meter> 60%
+	<br>
+	<h2>More About Me</h2>
+	<details>
+  		<summary>My Childhood</summary>
+  		I was born in the Netherlands. We moved to the United States when I was 6 years old.
+	</details>
+<figure>
+	<img src="http://www.intro-webdesign.com/images/newlogo.png"><figcaption>This page was created by Elyse Mitchell and Colleen van Lent. To learn more about web design, visit <a href="http://intro-webdesign.com/"> Intro to Web Design</a></figcaption>
+</body>
+</html>
